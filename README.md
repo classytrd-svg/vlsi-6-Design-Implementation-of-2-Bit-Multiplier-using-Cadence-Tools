@@ -1,4 +1,6 @@
 # Ex No: 06 - Design & Implementation of 2-Bit Multiplier Using Cadence Virtuoso
+# Name : vignesh E
+# Reg No: 212223060298
 
 ## Aim
 The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuoso** and verify its functionality through transient analysis simulation.
@@ -61,16 +63,14 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 ![Screenshot 2025-05-10 161100](https://github.com/user-attachments/assets/bfaa7af0-6785-46e4-b434-87d677af5807)
 
 ### Schematic of 2-Bit Multiplier:
-![Screenshot 2025-05-10 162446](https://github.com/user-attachments/assets/5b4b78a1-5812-4789-85ec-60324c2b5968)
+<img width="1920" height="1080" alt="Screenshot 2025-10-30 111147" src="https://github.com/user-attachments/assets/702b5ed6-9aaf-4ba0-a094-37cadbeabdb1" />
 
 ## Output
 ### Transient Analysis Output:
-![Screenshot 2025-05-15 153033](https://github.com/user-attachments/assets/2c94f184-525c-49ba-8733-27c982f0dffa)
+<img width="1920" height="1080" alt="Screenshot 2025-10-30 111205" src="https://github.com/user-attachments/assets/1695f44f-ebc6-4af6-8d65-0eaf5dd9db30" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-30 111306" src="https://github.com/user-attachments/assets/8f3bdfbd-615d-46e1-8b2d-71858591a38d" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-30 111128" src="https://github.com/user-attachments/assets/9ef02884-3843-43f2-9412-a39c2957f59d" />
 
-![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
-
-
-![Screenshot 2025-05-15 152538](https://github.com/user-attachments/assets/694df39e-3505-4cf1-ae99-21bc428300b7)
 
 Run Time : 200ns
 
